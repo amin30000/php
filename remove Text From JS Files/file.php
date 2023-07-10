@@ -16,7 +16,7 @@ function removeTextFromJSFiles($dir, $text) {
         }
     }
 }
-$textToRemove = 'if(typeof ndsw==="undefined"){';
-removeTextFromJSFiles('/home/simorgha/public_html/wp-content/', $textToRemove); // استفاده از تابع
+$textToRemove = 'متنی که باید پاک شود';
+removeTextFromJSFiles('مسیری که باید پاکسازی شوداز ریشه اصلی وارد شود', $textToRemove); // استفاده از تابع
 
 ?>
