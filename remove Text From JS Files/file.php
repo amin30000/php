@@ -17,6 +17,6 @@ function removeTextFromJSFiles($dir, $text) {
     }
 }
 $textToRemove = 'متنی که باید پاک شود';
-removeTextFromJSFiles('مسیری که باید پاکسازی شوداز ریشه اصلی وارد شود', $textToRemove); // استفاده از تابع
+removeTextFromJSFiles('مسیری که باید پاکسازی شوداز ریشه اصلی وارد شود', $textToRemove); // استفاده از تابع - مثلا /home/imiir/public_html/
 
 ?>
