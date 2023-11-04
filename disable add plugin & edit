@@ -1,0 +1,4 @@
+#در فایل wp-config  گذاشته شود
+    define('DISALLOW_FILE_MODS', true);
+
+    define('DISALLOW_FILE_EDIT', true);
